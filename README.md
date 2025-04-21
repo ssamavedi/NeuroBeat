@@ -1,4 +1,5 @@
 # Concussion Detection via Heart Rate Variability (HRV) Using Machine Learning
+### *by Sagarika Samavedi, Naryeong Kim, Claudia Zimmerman, Jackson Disario, Mark Fisher*
 
 ## Introduction
 
@@ -46,7 +47,7 @@ The results indicate that HRV-based concussion detection has potential as a non-
 
 ## Acknowledgements
 
-Our work was conducted under the guidance of **Dr. Ross Venook**, Senior Lecturer in Bioengineering at Stanford University. We were funded by the **Biodesign NEXT grant**, awarded through the **Stanford Byers Center for Biodesign**.
+Our work was conducted under the guidance of **Dr. Ross Venook**, Senior Lecturer in Bioengineering at Stanford University. We were funded by the **Biodesign NEXT Grant**, awarded through the **Stanford Byers Center for Biodesign**, and **Stanford Startup Garage**, through the **Stanford Graduate School of Business**.
 
 ## References
 
